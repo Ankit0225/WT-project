@@ -71,7 +71,7 @@ Users can feel free to contact our Support Service.
 
 ## Contributers
 <ul>
-<li>Aditya Kumar</li>
+<li>Kumar Aditya</li>
 <li>Smriti Chandra</li>
 <li>Syed Junaid Ahmed</li>
 <li>Ankit Maurya</li>
